@@ -10,7 +10,7 @@ namespace my_appp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Life is awesome");
+            Console.WriteLineee("Life is awesome");
         }
     }
 }
